@@ -1,0 +1,16 @@
+ESTE CODIGO NO SE EJECUTA CORRECTAMENTE YA SOLAMENTE ESTAMOS CONCATENANDO LAS VARIABLES a Y b
+
+
+	class Program
+	{
+		static void Main(string [] args)
+		{
+			int a=5, b=2;
+
+			Console.WriteLine("La multiplicacion de a x b = " a b);
+
+			Console.ReadKey();
+
+
+		}
+	}

@@ -1,0 +1,6 @@
+D:\trabajosProgramación22\Trabajos C#\TP5\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+D:\trabajosProgramación22\Trabajos C#\TP5\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csprojResolveAssemblyReference.cache
+D:\trabajosProgramación22\Trabajos C#\TP5\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+D:\trabajosProgramación22\Trabajos C#\TP5\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+D:\trabajosProgramación22\Trabajos C#\TP5\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+D:\trabajosProgramación22\Trabajos C#\TP5\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb

@@ -1,0 +1,5 @@
+d:\biblioteca\documents\visual studio 2012\Projects\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe.config
+d:\biblioteca\documents\visual studio 2012\Projects\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe
+d:\biblioteca\documents\visual studio 2012\Projects\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.pdb
+d:\biblioteca\documents\visual studio 2012\Projects\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.exe
+d:\biblioteca\documents\visual studio 2012\Projects\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.pdb

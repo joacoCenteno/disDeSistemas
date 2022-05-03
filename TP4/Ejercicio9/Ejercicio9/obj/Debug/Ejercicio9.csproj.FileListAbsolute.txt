@@ -1,0 +1,5 @@
+D:\trabajosProgramación22\Trabajos C#\TP4\Ejercicio9\Ejercicio9\bin\Debug\Ejercicio9.exe.config
+D:\trabajosProgramación22\Trabajos C#\TP4\Ejercicio9\Ejercicio9\bin\Debug\Ejercicio9.exe
+D:\trabajosProgramación22\Trabajos C#\TP4\Ejercicio9\Ejercicio9\bin\Debug\Ejercicio9.pdb
+D:\trabajosProgramación22\Trabajos C#\TP4\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.exe
+D:\trabajosProgramación22\Trabajos C#\TP4\Ejercicio9\Ejercicio9\obj\Debug\Ejercicio9.pdb

@@ -1,0 +1,5 @@
+D:\Tareas de Lab\Trabajos C#\TP1\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.exe.config
+D:\Tareas de Lab\Trabajos C#\TP1\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.exe
+D:\Tareas de Lab\Trabajos C#\TP1\Ejercicio6\Ejercicio6\bin\Debug\Ejercicio6.pdb
+D:\Tareas de Lab\Trabajos C#\TP1\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.exe
+D:\Tareas de Lab\Trabajos C#\TP1\Ejercicio6\Ejercicio6\obj\Debug\Ejercicio6.pdb

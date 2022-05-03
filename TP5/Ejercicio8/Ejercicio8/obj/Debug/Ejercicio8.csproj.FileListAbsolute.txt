@@ -1,0 +1,5 @@
+D:\trabajosProgramación22\Trabajos C#\TP5\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe.config
+D:\trabajosProgramación22\Trabajos C#\TP5\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.exe
+D:\trabajosProgramación22\Trabajos C#\TP5\Ejercicio8\Ejercicio8\bin\Debug\Ejercicio8.pdb
+D:\trabajosProgramación22\Trabajos C#\TP5\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.exe
+D:\trabajosProgramación22\Trabajos C#\TP5\Ejercicio8\Ejercicio8\obj\Debug\Ejercicio8.pdb

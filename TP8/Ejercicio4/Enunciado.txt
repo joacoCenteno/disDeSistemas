@@ -1,0 +1,16 @@
+Haz una clase llamada Persona que siga las siguientes condiciones:
+   a. Sus atributos son nombre, edad, DNI, sexo (H hombre, M Mujer), peso y altura. No quewremos que se accedan directamente a ellos. Piensa que modificador de acceso
+       es el más adecuado, tambien su tipo. Si quieres añadir otro atributo puedes hacerlo.
+   b. Por defecto, todos los atributos menos el DNI serán valores por defecto segun su tipo ( 0 numeros, cadena vacia para string, etc, sexo será hombre por defecto)
+   c. Se implementarán varios contructores
+        I. Un contrucor por defecto.
+       II. Un contructor con el nombre, edad y sexo, el resto por defecto.
+      III. Un constructor con todos los atributos como parametro.
+   d. Los metodos que se implementarán son:
+        1. calcularIMC(): Calculará si la persona está en su peso ideal, si devuelve un vsalor menor que 20, la funcion devuelve un -1, si devuelve un numero entre
+            20 y 25, significa que está por debajo se su peso ideal, la funcion devuelve un 0 y si devuelve un valor mayor que 25  significa que tiene sobrepeso, la funcion devuelve 1.
+        2. esMayorDeEdad(), indica si es mayor de edad, devuelve un booleano.
+        3. comprobarSexo(char sexo), comprueba que el sexo introducido es correcto. Si no es correcto será H. No será visible al exterior.
+        4. toString() Devuelve o muestra toda la informacion del objeto.
+        5. generaDnI() genera un numero aleatorio de 8 cifras, genera a partir su numero de DNI.
+        6. Métodos set de cada atributo excepto DNI

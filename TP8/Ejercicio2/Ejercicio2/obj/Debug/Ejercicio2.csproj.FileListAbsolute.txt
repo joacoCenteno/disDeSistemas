@@ -1,0 +1,6 @@
+D:\trabajosProgramación22\Trabajos C#\TP8\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+D:\trabajosProgramación22\Trabajos C#\TP8\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.exe
+D:\trabajosProgramación22\Trabajos C#\TP8\Ejercicio2\Ejercicio2\bin\Debug\Ejercicio2.pdb
+D:\trabajosProgramación22\Trabajos C#\TP8\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.csprojResolveAssemblyReference.cache
+D:\trabajosProgramación22\Trabajos C#\TP8\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.exe
+D:\trabajosProgramación22\Trabajos C#\TP8\Ejercicio2\Ejercicio2\obj\Debug\Ejercicio2.pdb

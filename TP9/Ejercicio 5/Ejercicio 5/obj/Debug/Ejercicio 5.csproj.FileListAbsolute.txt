@@ -1,0 +1,8 @@
+F:\trabajosProgramación22\Trabajos C#\TP9\Ejercicio 5\Ejercicio 5\bin\Debug\Ejercicio 5.exe.config
+F:\trabajosProgramación22\Trabajos C#\TP9\Ejercicio 5\Ejercicio 5\bin\Debug\Ejercicio 5.exe
+F:\trabajosProgramación22\Trabajos C#\TP9\Ejercicio 5\Ejercicio 5\bin\Debug\Ejercicio 5.pdb
+F:\trabajosProgramación22\Trabajos C#\TP9\Ejercicio 5\Ejercicio 5\obj\Debug\Ejercicio_5.Form1.resources
+F:\trabajosProgramación22\Trabajos C#\TP9\Ejercicio 5\Ejercicio 5\obj\Debug\Ejercicio_5.Properties.Resources.resources
+F:\trabajosProgramación22\Trabajos C#\TP9\Ejercicio 5\Ejercicio 5\obj\Debug\Ejercicio 5.csproj.GenerateResource.Cache
+F:\trabajosProgramación22\Trabajos C#\TP9\Ejercicio 5\Ejercicio 5\obj\Debug\Ejercicio 5.exe
+F:\trabajosProgramación22\Trabajos C#\TP9\Ejercicio 5\Ejercicio 5\obj\Debug\Ejercicio 5.pdb

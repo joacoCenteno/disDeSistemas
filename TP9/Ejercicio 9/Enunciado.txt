@@ -1,0 +1,4 @@
+Crear un proyecto con interfaz gráfica, en el mismo proyecto definir una clase llamada Libro
+, la cual tendrá llos atributos Nombre, autor, editorial y precio. Tambien deberá tener sus métods
+correspondientes. Deberá crear la interfaz nevcesaria para manejar ls datos del objeto. Y deberás
+crear un boton para todos los datos del objeto y ub boton para mostrar los datos de cada atributo por separado.

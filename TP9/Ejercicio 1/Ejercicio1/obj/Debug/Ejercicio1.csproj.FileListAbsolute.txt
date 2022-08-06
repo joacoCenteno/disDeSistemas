@@ -1,0 +1,9 @@
+F:\trabajosProgramación22\Trabajos C#\TP9\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+F:\trabajosProgramación22\Trabajos C#\TP9\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csprojResolveAssemblyReference.cache
+F:\trabajosProgramación22\Trabajos C#\TP9\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+F:\trabajosProgramación22\Trabajos C#\TP9\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+F:\trabajosProgramación22\Trabajos C#\TP9\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.Cache
+F:\trabajosProgramación22\Trabajos C#\TP9\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+F:\trabajosProgramación22\Trabajos C#\TP9\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+F:\trabajosProgramación22\Trabajos C#\TP9\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+F:\trabajosProgramación22\Trabajos C#\TP9\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb

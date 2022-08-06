@@ -1,0 +1,6 @@
+Crea un clase llamdad Persona. Sus atributos son: nombre, edad y DNI. Construye los siguientes métodos
+paara la clase:
+  a. Un constructor
+  b. Los getters y setters para cada atributo.
+  c.Mostrar() muestra los datos de la persona
+  d. esMayorDeEdad() Devuelve un valor lógico indicando si es mayor de edad.

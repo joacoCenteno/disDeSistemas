@@ -1,0 +1,8 @@
+Crea un programa con interfaz gráfica con la cual puedas manipular un objeto de una clase
+. Crea una clase llamada Cuenta que tendrá los siguientes atributos: titular y cantidad. El 
+titular será obligatorio y la cantidad es opcional contruye los siguientes métodos:
+  a. Un  constructor donde los datos puedan estar vacíos
+  b. Los getters y setter para cada uno de los atributos.
+  c. Mostrar() Muestra los datos de la cuenta.
+  d. Ingresar(cantidad) se ingresa una cantidad a la cuenta, si la cantidad es negativa no se hace nada.
+  e. Retirar(catnidad) Se retira un cantidad a la cuenta que puede estar de color rojo en caso de tener valores negativos.

@@ -1,0 +1,29 @@
+1) Crear un pograma con una interfaz grafica en la cual se pueda cargar los siguientes datos de un alumno: legajo (lo puede
+generar aleatoriamente), apellido, nombre y fecha de nacimiento.
+	a. El programa deberá tener un boton agregar los datos del alumno al datagridview
+
+2) Modificando el programa anterior: deberá agregar un boton con el cual podra eliminar un registro seleccionado previamente.
+
+3) Continuando trabajando con el programa anterior. Deberá escribir el codigo necesario, si el usuario hace doble click en alguna
+de las filas del datagridview, deberá cargarse los datos de dicha fila en los respectivos TextBox.
+
+4) Siempre trabajando en el mismo programa, deberá definir una clase llamada alumno. La cual tendra los siguientes atributos:
+	a. legajo tipo int.
+	b. apellido tipo string.
+	c. nombre tipo string.
+	d. fecha_naci tipo DateTime
+   Deberá crear los respectivos getters y setters para cada atributo.
+
+5) Debera definir en el programa una lista de tipo Alumno o sea una lista de objetos.
+
+6) Modificar el boton "agregar", ahora cuando el usuario haga click en este, los datos cargados no deberán ser ingresados al datagridview,
+   sino que deberán ser agregados a la lista creada en el punto anterior.
+
+7) Ahora agregar un boton "agregar desde lista" cuando el usuario haga click en el cargue todos los elementos de la lista en el
+   datagridview, esto es que cargue todos los datos de Alumno en la tabla.
+
+8) Crear un abase de datos, la cual tendra una tabla llamada Alumno, con los cmapos necesarios para guardar la informacion de los
+   los alumnos que maneja el programa anterior. Tendrá el campo para el legajo, apellido, nombre, fecha_nacimiento.
+
+9) Agregar un  boton "guardar en BD", el cual cuando el usaurio haga click deberá guardar cada registro del datagridview en la
+   BD en su tabla correspondiente.
